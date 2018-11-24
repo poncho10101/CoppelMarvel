@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Coppel Marvel - Alfonso Sotelo</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="coppel">coppel</string>
+    <string name="retry">Retry</string>
+    <string name="edit">Edit</string>
+    <string name="details">Details</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+
+    <string name="required_field_error_message">This field is required</string>
+    <string name="login_error_message">Username or password are wrong</string>
+    <string name="dummy_credentials">Dummy credentials\nUsername: coppel\nPassword: coppel</string>
+
+    <string name="saved_successfully">Saved successfully</string>
+
+    <string name="error_connection_message">Connection error, check your Internet connection</string>
+    <string name="error_bad_request_message">Bad request error</string>
+    <string name="error_unauthorized_message">Unauthorized</string>
+    <string name="error_forbidden_message">You don\'t have permissions</string>
+    <string name="error_not_found_message">Entity not found</string>
+    <string name="error_not_allowed_message">Method not allowed, contact an Admin</string>
+    <string name="error_not_acceptable_message">Method not acceptable, contact an Admin</string>
+    <string name="error_300_redirects_message" formatted="false">Error %d, contact an Admin</string>
+    <string name="error_400_client_message" formatted="false">Client error %d, contact an Admin</string>
+    <string name="error_500_server_message" formatted="false">Server error code: %d, contact an Admin</string>
+    <string name="entity_not_found">Item doesn\'t exists</string>
+
+
+    <!--Character Strings-->
+    <string name="characters">Characters</string>
+    <string name="character_details">Character Details</string>
+    <string name="character_edit">Character Edit</string>
+    <string name="character_id_format" formatted="false">Id: %d</string>
+    <string name="character_date_format" formatted="false">Modified Date:\n%s</string>
+    <string name="character_name">Name</string>
+    <string name="character_description">Description</string>
+    <string name="character_resource_uri">Resource URI</string>
+
+</resources>
